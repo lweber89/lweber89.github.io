@@ -17,9 +17,9 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [lweber89@gmail.com](mailto:[lweber89@gmail.com]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/lweber89](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/lweber89-stl](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
+| :material-email: **Email** | [lweber89@gmail.com](mailto:lweber89@gmail.com) |
+| :fontawesome-brands-github: **GitHub** | [github.com/lweber89](https://github.com/lweber89) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/lweber89-stl](https://linkedin.com/in/lweber89-stl) |
 
 ---
 
