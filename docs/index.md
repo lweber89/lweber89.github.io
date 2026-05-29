@@ -15,9 +15,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Lloyd Weber</h1>
+  <p><strong>Geospatial Solutions Architect</strong></p>
+  <p><em>Converting the abstract into the actionable | GIS | AWS | Python</em></p>
 </div>
 
 ---
@@ -27,15 +27,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+Geospatial Solutions Architect & Technical Leader with a proven track record of translating complex stakeholders' requirements into scalable, high-impact geospatial solutions. Expert in architecting end-to-end data pipelines that transform massive spatial datasets into actionable business intelligence. A collaborative leader who aligns cross-functional teams, open-source GIS technologies, and cloud infrastructure to solve real-world challenges.
 
 </div>
 
@@ -69,25 +61,11 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 -   :material-code-braces:{ .lg .middle } **Programming**
 
     ---
-
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
-
-    ---
-
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
-
     - Leaflet.js, Folium, MapLibre GL JS
     - Cloud storage — AWS S3, Google Cloud Storage
     - Data formats — GeoTIFF, GeoParquet, NetCDF
@@ -96,16 +74,12 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 -   :material-database:{ .lg .middle } **Data & Cloud**
 
     ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Cloud storage: AWS S3
+    - Data formats: GeoJSON, GeoTIFF, GeoParquet
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
     - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
 </div>
 
 
