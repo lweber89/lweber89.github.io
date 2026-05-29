@@ -17,7 +17,7 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
   <h1>Lloyd Weber</h1>
   <p><strong>Geospatial Solutions Architect</strong></p>
-  <p><em>Converting the abstract into the actionable | GIS | AWS | Python</em></p>
+  <p><em>Mapping the abstract into the actionable | GIS | AWS | Python</em></p>
 </div>
 
 ---
@@ -87,5 +87,5 @@ Geospatial Solutions Architect & Technical Leader with a proven track record of 
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/lweber89){ .md-button }
+[LinkedIn](https://linkedin.com/in/lweber89-stl){ .md-button }
