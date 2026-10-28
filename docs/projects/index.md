@@ -1,12 +1,3 @@
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace the two placeholder cards (marked [YOUR PROJECT ...]) with your real projects
-- [ ] For each project: add a thumbnail image to docs/assets/images/ and update the path below
-- [ ] For each project: create a project page by copying sample-project.md
-- [ ] For each project: add a nav entry in mkdocs.yml (see the comments there)
-- [ ] Delete placeholder cards you don't need yet
--->
-
 # Projects
 
 A selection of my geospatial projects. Click any card to see the full write-up.
@@ -14,29 +5,26 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**[geocrime-stl](geocrime-stl.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+An open-source Python ETL package, published on PyPI, that fetches monthly St. Louis police crime data, cleans and standardizes it, clips it to the city boundary, and exports GeoJSON, GeoPackage, or CSV.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`Python` `ETL` `GeoJSON` `GeoPackage` `PyPI`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](geocrime-stl.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[St. Louis Crime Data Explorer](crime-data-explorer.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+An interactive dashboard that maps reported offenses by ward, neighborhood, or address radius, with hotspots, trend charts, and CSV export. Powered by geocrime-stl.
 
-`Python` `pandas` `Folium`
+`Web mapping` `Spatial analysis` `NIBRS` `GitHub Pages`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](crime-data-explorer.md){ .md-button }
+[Open the Explorer →](https://lweber89.github.io/geocrime-stl/dashboard/){ .md-button }
 </div>
 
 </div>
