@@ -16,6 +16,7 @@ An open-source Python ETL package, published on PyPI, that fetches monthly St. L
 </div>
 
 <div class="project-card" markdown>
+![St. Louis Crime Data Explorer map view](../assets/images/crime-explorer-thumb.jpg)
 
 **[St. Louis Crime Data Explorer](crime-data-explorer.md)**
 
