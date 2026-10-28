@@ -1,46 +1,27 @@
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
-- [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
-- [ ] Update GitHub and LinkedIn links in the Connect section
-- [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
--->
-
-
-
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
+  <!-- TODO: add a real photo at assets/images/profile.png, then uncomment the next line.
+  <img src="assets/images/profile.png" alt="Lloyd Weber" class="profile-photo">
+  -->
   <h1>Lloyd Weber</h1>
-  <p><strong>Geospatial Solutions Architect</strong></p>
-  <p><em>Mapping the abstract into the actionable | GIS | AWS | Python</em></p>
+  <p><strong>Geospatial Data Engineer &amp; Analyst</strong></p>
+  <p><em>Mapping the abstract into the actionable | Python | QGIS | ETL | AWS</em></p>
+  <p>7x AWS Certified · DoD/IC Cleared · Open to part-time remote work</p>
 </div>
 
 ---
 
 ## About Me
 
-<div class="about-section" markdown>
-<div class="about-text" markdown>
+I've spent 30+ years in the geospatial industry, most recently as a Division Chief at the National Geospatial-Intelligence Agency, leading a 130+ person division and standing up enterprise GIS and foundation data programs. My career started hands-on, and since retiring in 2025 I've deliberately returned to that side of the work.
 
-Geospatial Solutions Architect & Technical Leader with a proven track record of translating complex stakeholders' requirements into scalable, high-impact geospatial solutions. Expert in architecting end-to-end data pipelines that transform massive spatial datasets into actionable business intelligence. A collaborative leader who aligns cross-functional teams, open-source GIS technologies, and cloud infrastructure to solve real-world challenges.
+Lately that has meant earning seven AWS certifications, completing GIS programming and software design coursework at the University of Tennessee, Knoxville, and building [geocrime-stl](projects/geocrime-stl.md), an open-source Python ETL package, along with the [St. Louis Crime Data Explorer](projects/crime-data-explorer.md) built on top of it.
 
-</div>
-
-<div class="about-image">
-  <img src="assets/images/about.png" alt="About">
-</div>
-
-</div>
+I'm looking for part-time, remote work as a geospatial analyst or data engineer, ideally with one team that can bring me in where the work is: a project, a data backlog, or coverage for a teammate who's out. I'm also open to contract engagements and the occasional strategy or advisory session.
 
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Lloyd-Weber-CV.pdf){ .md-button }
 
 
 ---
@@ -49,37 +30,54 @@ Geospatial Solutions Architect & Technical Leader with a proven track record of 
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-layers:{ .lg .middle } **GIS & Spatial Analysis**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - QGIS (Advanced QGIS certificate) and Esri enterprise GIS
+    - Spatial analysis and cartographic design
+    - Geospatial data quality and standards
+    - FAA Part 107 remote pilot certificate
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-   :material-code-braces:{ .lg .middle } **Python & ETL**
 
     ---
+
     - Python — GeoPandas, NumPy, Pandas, Matplotlib
+    - Automated ETL pipelines for spatial data
+    - Packaging and publishing to PyPI
+    - Jupyter notebooks and MkDocs documentation
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
+-   :material-cloud:{ .lg .middle } **AWS & Data Formats**
 
     ---
+
+    - AWS S3, Lambda, DynamoDB
+    - Seven AWS certifications, including Data Engineer, Solutions Architect, and Machine Learning Engineer
+    - GeoJSON, GeoPackage, GeoTIFF, GeoParquet, CSV
+
+-   :material-earth:{ .lg .middle } **Web Mapping**
+
+    ---
+
     - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
     - Streamlit for data-driven web apps
 
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-robot:{ .lg .middle } **AI & Strategy**
 
     ---
-    - Cloud storage: AWS S3
-    - Data formats: GeoJSON, GeoTIFF, GeoParquet
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+    - Agentic, AI-assisted development workflows
+    - AI strategy and governance (AWS Certified AI Business Strategist)
 
-    - Mission planning and flight operations
+-   :material-shield-star:{ .lg .middle } **GEOINT & Program Experience**
+
+    ---
+
+    - Foundation data, land and maritime boundaries, geospatial OSINT
+    - NGA GEOINT Professional Certifications
+    - Led enterprise GIS rollout and 130+ person division
+
 </div>
 
 
@@ -89,3 +87,4 @@ Geospatial Solutions Architect & Technical Leader with a proven track record of 
 
 [GitHub](https://github.com/lweber89){ .md-button }
 [LinkedIn](https://linkedin.com/in/lweber89-stl){ .md-button }
+[Email](mailto:lweber89@gmail.com){ .md-button }
