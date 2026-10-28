@@ -110,4 +110,4 @@ Thesis: *The illicit methamphetamine landscape of Franklin County, Missouri: app
 
 ## Honors
 
-Geography Outstanding Graduate Instructor · Supervisory Role Model Award · National Intelligence Meritorious Unit Citation · Meritorious Unit Citation
+Geography Outstanding Graduate Instructor · NGA Supervisory Role Model Award · National Intelligence Meritorious Unit Citation · NGA Meritorious Unit Citation
