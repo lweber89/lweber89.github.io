@@ -5,6 +5,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
+![geocrime-stl monthly map output: four maps of St. Louis showing all incidents and crimes against persons, property, and society](../assets/images/geocrime-quad-thumb.jpg)
 
 **[geocrime-stl](geocrime-stl.md)**
 

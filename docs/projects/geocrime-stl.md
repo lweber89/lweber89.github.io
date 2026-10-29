@@ -24,7 +24,17 @@ geocrime-stl is an open-source Python package that fetches, cleans, and standard
 4. **Filter by space** to drop records whose latitude and longitude fall outside the City of St. Louis boundaries.
 5. **Export** analysis-ready data as GeoJSON, GeoPackage, or CSV, with built-in monthly summaries and maps.
 
-A typical run is three calls: `run_pipeline(4, 2026)`, then `generate_monthly_metrics()`, then `plot_monthly_maps()`.
+![geocrime-stl pipeline: the SLMPD stats page feeds four stages (fetch, clean, filter, export) that produce analysis-ready GeoJSON, GeoPackage, and CSV files, which power the St. Louis Crime Data Explorer](../assets/images/geocrime-pipeline.svg)
+
+*The pipeline at a glance: one monthly file in, analysis-ready files out.*
+
+A typical run is three calls: `run_pipeline(4, 2026)`, then `generate_monthly_metrics()` for a monthly summary, then `plot_monthly_maps()` for the map quad shown below.
+
+**Example output**
+
+`plot_monthly_maps()` draws a four-panel matplotlib figure showing where reported incidents fall, for all incidents and for crimes against persons, property, and society. This is September 2026 (3,247 incidents).
+
+![Four maps of St. Louis for September 2026: all incidents, crimes against persons, crimes against property, and crimes against society, with each incident plotted as a point over neighborhood boundaries](../assets/images/geocrime-quad.png){ width="480" }
 
 **Tools Used**
 
