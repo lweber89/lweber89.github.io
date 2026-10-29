@@ -1,5 +1,9 @@
 # St. Louis Crime Data Explorer
 
+![St. Louis Crime Data Explorer showing reported offenses within a half mile of a downtown address, with a breakdown by offense type and a month-by-month trend](../assets/images/crime-explorer.png)
+
+*Crime map view: reported offenses within a half mile of a downtown address, with a breakdown by type, the most common offenses, and a month-by-month trend.*
+
 ## Overview
 
 The St. Louis Crime Data Explorer is an interactive web dashboard that maps reported offenses in St. Louis at several spatial scales, from wards and neighborhoods down to a search radius around any address, so people can see the data at the point of need. It is built on monthly data prepared by the [geocrime-stl](geocrime-stl.md) ETL package.
@@ -15,6 +19,7 @@ The St. Louis Crime Data Explorer is an interactive web dashboard that maps repo
 **Data Source**
 
 - SLMPD crime data as posted by the City of St. Louis, typically published around the 5th of the following month.
+- Coverage as of October 2026: 124,064 reported offenses from January 2024 through September 2026.
 - Offenses are grouped using the NIBRS "crimes against" classification: Person, Property, Society, plus Firearm and Other categories.
 
 **Features**
