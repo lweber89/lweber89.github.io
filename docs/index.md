@@ -1,7 +1,5 @@
 <div class="hero">
-  <!-- TODO: add a real photo at assets/images/profile.png, then uncomment the next line.
-  <img src="assets/images/profile.png" alt="Lloyd Weber" class="profile-photo">
-  -->
+  <img src="assets/images/profile.jpg" alt="Photo of Lloyd Weber" class="profile-photo">
   <h1>Lloyd Weber</h1>
   <p><strong>Geospatial Data Engineer &amp; Analyst</strong></p>
   <p><em>Mapping the abstract into the actionable | Python | QGIS | ETL | AWS</em></p>
